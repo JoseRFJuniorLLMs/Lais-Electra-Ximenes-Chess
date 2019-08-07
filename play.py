@@ -185,7 +185,7 @@ def move():
   if not s.board.is_game_over():
     move = request.args.get('move',default="")
     if move is not None and move != "":
-      print("human moves", move)
+      print("BUDA JOGANDO", move)
       try:
         s.board.push_san(move)
         computer_move(s, v)
@@ -217,7 +217,7 @@ def move_coordinates():
     move = s.board.san(chess.Move(source, target, promotion=chess.QUEEN if promotion else None))
 
     if move is not None and move != "":
-      print("human moves", move)
+      print("BUDA JOGANDO", move)
       try:
         s.board.push_san(move)
         computer_move(s, v)
@@ -256,3 +256,4 @@ if __name__ == "__main__":
   else:
     app.run(debug=True)
 
+#progress bar move
