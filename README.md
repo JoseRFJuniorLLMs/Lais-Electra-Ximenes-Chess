@@ -1,7 +1,7 @@
 # Lais Electra Ximenes Chess (LEXChess)
 
 # Youtube:
-<"https://www.youtube.com/embed/qG59OobzCcE">
+https://www.youtube.com/embed/qG59OobzCcE
 
 <img width=600px src="https://github.com/DevJoseWeb/Lais-Electra-Ximenes-Chess/blob/master/monstra.jpg" />
 <img width=600px src="https://raw.githubusercontent.com/geohot/twitchchess/master/screenshot.png" />
