@@ -1,6 +1,6 @@
 # Lais Electra Ximenes Chess (LEXChess)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qG59OobzCcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<src="https://www.youtube.com/embed/qG59OobzCcE"></>
 
 <img width=600px src="https://github.com/DevJoseWeb/Lais-Electra-Ximenes-Chess/blob/master/monstra.jpg" />
 <img width=600px src="https://raw.githubusercontent.com/geohot/twitchchess/master/screenshot.png" />
